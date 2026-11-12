@@ -6,3 +6,4 @@ db.url=jdbc:mysql://localhost:3306/finance_tracker?useSSL=false&allowPublicKeyRe
 db.username=root
 db.password=YOUR_MYSQL_PASSWORD
 db.pool.maxSize=10
+
